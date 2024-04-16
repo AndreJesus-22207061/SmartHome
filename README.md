@@ -4,7 +4,8 @@ Projeto no âmbito da disciplina de Arquiteturas Avançadas de Computadores
 
 Criadores: André Jesus / Tomás Nave
 
-![arduino](https://github.com/TomasNave-a22208623/Smart-Home/assets/127102331/942a1ade-45b4-440d-b0ab-00fa4946d20d)
+![arduino2](https://github.com/TomasNave-a22208623/Smart-Home/assets/127102331/589461a3-1ffd-41a9-88ac-1663cb6fd677)
+
 
 Objetivo:
 
